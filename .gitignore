@@ -63,3 +63,13 @@ obj/
 CMakeLists.txt
 *.exe
 *.o
+*.out
+*.app
+.git
+**/.git
+/.vscode
+**/.DS_Store
+**/out
+**/obj
+/obj
+/out
